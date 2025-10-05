@@ -5,4 +5,5 @@
 * https://dwm.suckless.org/patches/uselessgap/
 * https://dwm.suckless.org/patches/vtcolors/
 * https://dwm.suckless.org/patches/bar_height/
-* https://dwm.suckless.org/patches/notitle/ 
+* https://dwm.suckless.org/patches/notitle/
+* https://dwm.suckless.org/patches/clientmonoclesymbol/
