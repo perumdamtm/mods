@@ -1,9 +1,13 @@
-* https://dwm.suckless.org/patches/attachbelow/
-* https://dwm.suckless.org/patches/fibonacci/
+* https://dwm.suckless.org/patches/alpha/ #fixborder patch
 * https://dwm.suckless.org/patches/hide_vacant_tags/
+* https://dwm.suckless.org/patches/fibonacci/
 * https://dwm.suckless.org/patches/switchtotag/
-* https://dwm.suckless.org/patches/uselessgap/
-* https://dwm.suckless.org/patches/vtcolors/
-* https://dwm.suckless.org/patches/bar_height/
+* https://dwm.suckless.org/patches/monoclesymbol/
 * https://dwm.suckless.org/patches/notitle/
+* https://dwm.suckless.org/patches/bar_height/
+* https://dwm.suckless.org/patches/uselessgap/ #with manual intervention for single window
+* https://dwm.suckless.org/patches/alwayscenter/
+* https://dwm.suckless.org/patches/attachbelow/
+ 
+* https://dwm.suckless.org/patches/vtcolors/
 * https://dwm.suckless.org/patches/clientmonoclesymbol/
